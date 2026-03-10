@@ -17,17 +17,15 @@ Python_learning
 │	├── mod03_ex5_ft_data_stream.py				# data generators
 │	├── mod03_ex6_ft_analytics_dashboard.py		# lists, sets, dicts, comprehensions
 ├── error_management
-│	├── m02_ft_garden_management.py			# custom errors, raising,
-│	│										# try/except, finally + OOP
-│	├── mod04_ex3_ft_vault_security.py		# try/except, sys.stderr
-│	├── mod04_ex4_ft_crisis_response.py		# raising, try/except, sys.stderr
+│	├── m02_ft_garden_management.py				# custom errors, raising, try/except, finally + OOP
+│	├── mod04_ex3_ft_vault_security.py			# try/except, sys.stderr
+│	├── mod04_ex4_ft_crisis_response.py			# raising, try/except, sys.stderr
 ├── OOP 								
-│	└── mod01_ft_garden_analytics.py	# classes, inheritance,
-│										# class/static methods
-│										# polymorphism coming soon
+│	└── mod01_ft_garden_analytics.py			# classes, inheritance, class/static methods
+│												# polymorphism coming soon
 ```
 
-## Table of projects
+## Table of modules
 
 | Module |       Topics       |  Time  |    Status    |
 |--------|--------------------|--------|--------------|
