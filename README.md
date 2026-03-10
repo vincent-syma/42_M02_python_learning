@@ -1,46 +1,44 @@
-# 42 Projects (vincent_syma)
+# Python learning (vincent_syma)
 
-These projects are based on **42 school subjects**.
-
-Since I started my studies on 42Prague when 42 schools started switching to a **NEW core**, I did my first projects in an **OLD core** (`libft`-`push_swap`) and the rest is from the **NEW core**.
-
-The old projects focus on **low-level programming in C**, the newer ones introduce **OOP in Python** and **AI, agents and LLMs**. Both cores also introduce some projects regarding **system administration**.
-
-In these projects it is cool that they do not have 1 correct solution, so everybody who does them, has their unique way of approaching, solving and presenting them.
+These projects are based on **42 school subjects** focused on embracing Python and OOP.
 
 The versions I have in this public repo do not have to adhere to all 42 strict rules and norms. They were validated once but I may work on them after that not sticking to the school norms anymore.
 
-## Current status
+## Current status - top exercises completed
 
 ```bash
-42_projects
-├── 42_LIBRARY
-│	├── M00_libft			# my own versions of library functions		
-│	├── M01_ft_printf		# my recode of printf()
-│	├── M01_get_next_line	# reading lines from fd
-├── M02_push_swap			# sorting program
-├── system_administration
-│	└── M01_born2beroot		# basic system administration
+Python_learning
+├── data_management
+│	├── mod03_ex0_ft_command_quest.py			# sys.argv
+│	├── mod03_ex1_ft_score_analytics.py			# sys.argv, lists
+│	├── mod03_ex2_ft_coordinate_system.py		# tuples
+│	├── mod03_ex3_ft_achievement_tracker.py		# sets
+│	├── mod03_ex4_ft_inventory_system.py		# sys.argv, dicts
+│	├── mod03_ex5_ft_data_stream.py				# data generators
+│	├── mod03_ex6_ft_analytics_dashboard.py		# lists, sets, dicts, comprehensions
+├── error_management
+│	├── m02_ft_garden_management.py			# custom errors, raising,
+│	│										# try/except, finally + OOP
+│	├── mod04_ex3_ft_vault_security.py		# try/except, sys.stderr
+│	├── mod04_ex4_ft_crisis_response.py		# raising, try/except, sys.stderr
+├── OOP 								
+│	└── mod01_ft_garden_analytics.py	# classes, inheritance,
+│										# class/static methods
+│										# polymorphism coming soon
 ```
 
 ## Table of projects
 
-| Milestone |      Project      |     About     | Language used | Time | Status |
-|-----------|-------------------|---------------|---------------|------|--------|
-| M00 		| 	[`libft`](https://github.com/vincent-syma/42_library/tree/main/src/libft) 			| Library functions | C 		| *50 h* | ✅ Completed |
-| M01 		| [`ft_printf()`](https://github.com/vincent-syma/42_library/tree/main/src/ft_printf) 		| Library functions - printf() | C | *50 h* | ✅ Completed |
-| M01 		| [`get_next_line()`](https://github.com/vincent-syma/42_library/tree/main/src/get_next_line) 	| Function - read line from fd | C | *40 h* | ✅ Completed |
-| M01 		| [`Born2BeRoot`](https://github.com/vincent-syma/42_system_administration/tree/6d4bbfff5odexion916d3579f53b4e992d1cb4edffd4f6c/M01_Born2BeRoot) 		| System administration | bash 	| *20 h* | ✅ Completed |
-| M02 		| [`push_swap`](https://github.com/vincent-syma/42_M02_push_swap) 		| Sorting program | C 			| *50 h* | ✅ Completed |
-| M02 		| [`Python Piscine`](https://github.com/vincent-syma/42_M02_python_learning)	| Learning Python | Python		| *... h* | ⏳ IN PROGRESS (5/11 modules completed) |
-| M02 		| `A-Maze-Ing`	| Maze generator with graphics | Python		| *50 h* | ⏳ Waiting |
-| M03 		| `Codexion` | ... | C | *80 h* | ⏳ Waiting |
-| M03 		| `Fly-in` | ... | Python | *120 h* | ⏳ Waiting |
-| M03 		| `Call Me Maybe` | AI | Python | *80 h* | ⏳ Waiting |
-| M04 		| `Pac-Man` | Game design | Python | *... h* | ⏳ Waiting |
-| M04 		| `NetPractice` | System administration | ... | *... h* | ⏳ Waiting |
-| M04 		| `RAG against the machine` | AI | Python | *... h* | ⏳ Waiting |
-| M05 		| `Agent Smith` | AI | … | *... h* | ⏳ Waiting |
-| M05 		| `Answer Protocol` | ... | C | *... h* | ⏳ Waiting |
-| M05 		| `Inception` | System administration | … | *... h* | ⏳ Waiting |
-| M05 		| `ft_transcendence` | Web application | … | *... h* | ⏳ Waiting |
+| Module |       Topics       |  Time  |    Status    |
+|--------|--------------------|--------|--------------|
+| MOD_00 | Basics		  	  | *4 h*  | ✅ Completed |
+| MOD_01 | OOP - classes, inheritance, methods | *4 h*  | ✅ Completed |
+| MOD_02 | Error management - try/except, finally, raising, custom errors + OOP | *5 h*  | ✅ Completed |
+| MOD_03 | Data management - sys.argv, lists, sets, dicts, data generators, comprehensions | *5 h*  | ✅ Completed |
+| MOD_04 | Secure reading/writing to a file | *6 h*  | ✅ Completed |
+| MOD_05 | OOP - polymorphism  | *6 h*  | ⏳ IN PROGRESS |
+| MOD_06 | ...			  	  | *7 h*  | ⏳ Waiting 	 |
+| MOD_07 | ...			  	  | *7 h*  | ⏳ Waiting 	 |
+| MOD_08 | ...			  	  | *8 h*  | ⏳ Waiting 	 |
+| MOD_09 | ...			  	  | *9 h*  | ⏳ Waiting 	 |
+| MOD_10 | ...			  	  | *9 h*  | ⏳ Waiting 	 |
