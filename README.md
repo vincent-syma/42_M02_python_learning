@@ -27,14 +27,14 @@ Python_learning
 
 ## Table of modules
 
-| Module |       Topics       |  Time  |    Status    |
-|--------|--------------------|--------|--------------|
-| MOD_00 | Basics		  	  | *4 h*  | ✅ Completed |
-| MOD_01 | OOP - classes, inheritance, methods | *4 h*  | ✅ Completed |
-| MOD_02 | Error management - try/except, finally, raising, custom errors + OOP | *5 h*  | ✅ Completed |
-| MOD_03 | Data management - sys.argv, lists, sets, dicts, data generators, comprehensions | *5 h*  | ✅ Completed |
-| MOD_04 | Secure reading/writing to a file | *6 h*  | ✅ Completed |
-| MOD_05 | OOP - polymorphism  | *6 h*  | ⏳ IN PROGRESS |
+| Module |       Topics       |  Time  | Exercises status |
+|--------|--------------------|--------|------------------|
+| MOD_00 | Basics		  	  | *4 h*  | ✅ 8/8 completed |
+| MOD_01 | OOP - classes, inheritance, methods | *4 h*  | ✅ 7/7 completed |
+| MOD_02 | Error management, OOP | *5 h*  | ✅ 6/6 completed |
+| MOD_03 | Data management	  | *5 h*  | ✅ 7/7 completed |
+| MOD_04 | Secure reading/writing to a file | *6 h*  | ✅ 5/5 completed |
+| MOD_05 | OOP - polymorphism | *6 h*  | ⏳ IN PROGRESS: 2/3 completed |
 | MOD_06 | ...			  	  | *7 h*  | ⏳ Waiting 	 |
 | MOD_07 | ...			  	  | *7 h*  | ⏳ Waiting 	 |
 | MOD_08 | ...			  	  | *8 h*  | ⏳ Waiting 	 |
