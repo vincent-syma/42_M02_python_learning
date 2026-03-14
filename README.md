@@ -20,7 +20,7 @@ Python_learning
 │	├── m02_ft_garden_management.py				# custom errors, raising, try/except, finally + OOP
 │	├── mod04_ex3_ft_vault_security.py			# try/except, sys.stderr
 │	├── mod04_ex4_ft_crisis_response.py			# raising, try/except, sys.stderr
-├── OOP 								
+├── OOP
 │	└── mod01_ft_garden_analytics.py			# classes, inheritance, class/static methods
 │												# polymorphism coming soon
 ```
@@ -29,14 +29,14 @@ Python_learning
 
 | Module |       Topics       |  Time  | Exercises status |
 |--------|--------------------|--------|------------------|
-| MOD_00 | Basics		  	  | *4 h*  | ✅ 8/8 completed |
-| MOD_01 | OOP - classes, inheritance, methods | *4 h*  | ✅ 7/7 completed |
-| MOD_02 | Error management, OOP | *5 h*  | ✅ 6/6 completed |
-| MOD_03 | Data management	  | *5 h*  | ✅ 7/7 completed |
-| MOD_04 | Secure reading/writing to a file | *6 h*  | ✅ 5/5 completed |
-| MOD_05 | OOP - polymorphism | *6 h*  | ⏳ IN PROGRESS: 2/3 completed |
-| MOD_06 | ...			  	  | *7 h*  | ⏳ Waiting 	 |
-| MOD_07 | ...			  	  | *7 h*  | ⏳ Waiting 	 |
+| MOD_00 | Basics		  	  | 2 h    | ✅ 8/8 completed |
+| MOD_01 | OOP - classes, inheritance, methods | 4 h | ✅ 7/7 completed |
+| MOD_02 | Error management, OOP | 3 h | ✅ 6/6 completed |
+| MOD_03 | Data management	  | 8 h  | ✅ 7/7 completed |
+| MOD_04 | Secure reading/writing to a file | 4 h | ✅ 5/5 completed |
+| MOD_05 | OOP - polymorphism | 8 h  | ⏳ IN PROGRESS: 3/3 completed |
+| MOD_06 | Modules, packages, imports | 5 h  | ⏳ IN PROGRESS: 4/4 completed |
+| MOD_07 | OOP - polymorphism, packages | *7 h*  | ⏳ IN PROGRESS: 2/5 completed |
 | MOD_08 | ...			  	  | *8 h*  | ⏳ Waiting 	 |
 | MOD_09 | ...			  	  | *9 h*  | ⏳ Waiting 	 |
 | MOD_10 | ...			  	  | *9 h*  | ⏳ Waiting 	 |
