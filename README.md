@@ -2,7 +2,7 @@
 
 These projects are based on **42 school subjects** focused on embracing Python and OOP.
 
-The versions I have in this public repo do not have to adhere to all 42 strict rules and norms. They were validated once but I may work on them after that not sticking to the school norms anymore.
+The versions I have in this public repo do not have to adhere to all 42 strict rules and norms. They were checked with flake8 and validated once but I may work on them after that not sticking to the school norms anymore.
 
 ## Current status - top exercises completed
 
@@ -32,11 +32,11 @@ Python_learning
 | MOD_00 | Basics		  	  | 2 h    | ✅ 8/8 completed |
 | MOD_01 | OOP - classes, inheritance, methods | 4 h | ✅ 7/7 completed |
 | MOD_02 | Error management, OOP | 3 h | ✅ 6/6 completed |
-| MOD_03 | Data management	  | 8 h  | ✅ 7/7 completed |
+| MOD_03 | Data management	  | 10 h  | ✅ 7/7 completed |
 | MOD_04 | Secure reading/writing to a file | 4 h | ✅ 5/5 completed |
-| MOD_05 | OOP - polymorphism | 8 h  | ⏳ IN PROGRESS: 3/3 completed |
+| MOD_05 | OOP - polymorphism | 10 h  | ⏳ IN PROGRESS: 3/3 completed |
 | MOD_06 | Modules, packages, imports | 5 h  | ⏳ IN PROGRESS: 4/4 completed |
-| MOD_07 | OOP - polymorphism, packages | *7 h*  | ⏳ IN PROGRESS: 2/5 completed |
+| MOD_07 | OOP - polymorphism, packages | *15 h*  | ⏳ IN PROGRESS: 5/5 completed |
 | MOD_08 | ...			  	  | *8 h*  | ⏳ Waiting 	 |
 | MOD_09 | ...			  	  | *9 h*  | ⏳ Waiting 	 |
 | MOD_10 | ...			  	  | *9 h*  | ⏳ Waiting 	 |
