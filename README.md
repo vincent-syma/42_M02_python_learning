@@ -1,4 +1,4 @@
-# Python learning (vincent_syma)
+# 42_M02 Python learning
 
 These projects are based on **42 school subjects** focused on embracing Python and OOP.
 
@@ -40,3 +40,15 @@ Python_learning
 | MOD_08 | ...			  	  | *8 h*  | ⏳ Waiting 	 |
 | MOD_09 | ...			  	  | *9 h*  | ⏳ Waiting 	 |
 | MOD_10 | ...			  	  | *9 h*  | ⏳ Waiting 	 |
+
+---
+
+## 👤 Author
+
+**Simona Sucha**
+*(also known as ssucha or vincent_syma)* <br>
+Python & C · Developer, Software Tester · 42 student
+
+🖥️ GitHub: https://github.com/vincent-syma/ <br>
+🔗 LinkedIn: https://www.linkedin.com/in/simona-such%C3%A1-5a1b1928b <br>
+✉️ Email: vincent.f.syma@email.cz <br>
