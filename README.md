@@ -38,8 +38,8 @@ Python_learning
 | MOD_06 | Modules, packages, imports  | 5 h  | ⏳ IN PROGRESS: 4/4 completed |
 | MOD_07 | OOP - polymorphism, interfaces, packages | *15 h*  | ⏳ IN PROGRESS: 5/5 completed |
 | MOD_08 | Virtual environments | 5 h  | ⏳ IN PROGRESS: 3/3 completed |
-| MOD_09 | Pydantic - data validation | *9 h*  | ⏳ IN PROGRESS: 2/3 completed |
-| MOD_10 | ...			  	  | *9 h*  | ⏳ Waiting 	 |
+| MOD_09 | Pydantic - data validation | 5 h  | ⏳ IN PROGRESS: 3/3 completed |
+| MOD_10 | Functional programming | *9 h*  | ⏳ IN PROGRESS: 2/5 completed 	 |
 
 ---
 
