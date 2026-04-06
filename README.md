@@ -36,10 +36,10 @@ Python_learning
 | MOD_04 | Secure reading/writing to a file | 4 h | ✅ 5/5 completed |
 | MOD_05 | OOP - polymorphism | 10 h   | ✅ 3/3 completed |
 | MOD_06 | Modules, packages, imports  | 5 h | ✅ 4/4 completed |
-| MOD_07 | OOP - polymorphism, interfaces, packages | 17 h | ⏳ IN PROGRESS: 5/5 completed |
-| MOD_08 | Virtual environments | 5 h  | ⏳ IN PROGRESS: 3/3 completed |
-| MOD_09 | Pydantic - data validation | 5 h | ⏳ IN PROGRESS: 3/3 completed |
-| MOD_10 | Functional programming | 8 h | ⏳ IN PROGRESS: 5/5 completed |
+| MOD_07 | OOP - polymorphism, interfaces, packages | 17 h | ✅ 5/5 completed |
+| MOD_08 | Virtual environments | 5 h  | ✅ 3/3 completed |
+| MOD_09 | Pydantic - data validation | 5 h | ✅ 3/3 completed |
+| MOD_10 | Functional programming | 8 h | ✅ 5/5 completed |
 
 ---
 
