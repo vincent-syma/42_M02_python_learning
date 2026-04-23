@@ -13,7 +13,7 @@ Python_learning
 ├── mod01_ft_garden_analytics.py		# classes, inheritance, class/static methods
 │
 ├── error_management
-│   ├── mod02_ex5_ft_garden_management.py		# custom errors, raising, try/except, finally + OOP
+│   ├── mod02_ex5_ft_garden_management.py	# custom errors, raising, try/except, finally + OOP
 │   ├── mod04_ex3_ft_vault_security.py		# try/except, sys.stderr
 │   └── mod04_ex4_ft_crisis_response.py		# raising, try/except, sys.stderr
 │
