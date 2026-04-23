@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "matrix-analysis"
+version = "0.1.0"
+description = ""
+authors = ["ssucha"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "*"
+numpy = "*"
+matplotlib = "*"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
