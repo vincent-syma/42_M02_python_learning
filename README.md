@@ -2,7 +2,9 @@
 
 These projects are based on **42 school subjects** focused on embracing Python and OOP.
 
-My takes were checked with `flake8` linter and validated once, but the versions in this public repo do not have to adhere to all 42 strict rules and norms or current versions of the projects anymore.
+> [!NOTE]
+> My takes were checked with `flake8` linter and validated once, but the versions in this public repo do not have to adhere to all 42 strict rules and norms or current versions of the projects anymore.
+
 
 ## Top exercises
 From all the exercises I completed I picked up the most interesting examples of all the new concepts I learned on my journey:
